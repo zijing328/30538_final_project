@@ -1,0 +1,10 @@
+
+
+__pycache__/
+
+*.log
+
+.DS_Store
+.env
+.venv
+.pptx
