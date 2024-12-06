@@ -1,0 +1,33 @@
+---
+title: "Write Up: Institutional and Functional Integration of State-orchestrated regional strategy: Yangtze River Delta"
+date: "12/5/2024"
+format: 
+  pdf:
+    include-in-header: 
+       text: |
+         \usepackage{fvextra}
+         \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+include-before-body:
+  text: |
+    \RecustomVerbatimEnvironment{verbatim}{Verbatim}{
+      showspaces = false,
+      showtabs = false,
+      breaksymbolleft={},
+      breaklines
+    }
+output:
+  echo: true
+  eval: true
+---
+
+## Student Information
+Partner1: Zijing Zhao (cnetid:zijingz, github username:zijing328)
+Partner2: Zekai Shen (cnetid:zekaishen, github username:zac-shen)
+
+## Introduction
+
+## Research Question
+
+## Data 
+
+## Interpretation 
